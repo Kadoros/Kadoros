@@ -1,10 +1,10 @@
-# 🌟 Welcome to Kadoros' Dev Universe! 🌟
+# 👋 Hello, World! I'm Kadoros!
 
 <h1 align="center">
   <img src="https://i.imgur.com/hcDXuFD.png">
 </h1>
 
-## 👋 Hello, World! I'm Kadoros!
+
 
 🌟 Junior Developer | 🌐 Web Enthusiast | 🚀 Learning React
 
