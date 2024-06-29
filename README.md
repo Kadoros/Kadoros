@@ -6,7 +6,7 @@
 
 
 
-🌟 Junior Developer | 🌐 Web Enthusiast | 🚀 Learning React
+## 🌟 Junior Developer | 🌐 Web Enthusiast | 🚀 Learning React
 
 <h4 align="center">
     <br>
