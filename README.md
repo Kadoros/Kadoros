@@ -10,7 +10,7 @@
 
 <h4 align="center">
     <br>
-    🎓 Graduated from <a href="https://www.nordangliaeducation.com/pbis-prague/campaign-ppc-1?gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds3KEXJDhFztqpDTNvzMreu8IU8QjF73DgH6yojA4Ij8IJk6DJGCVhYaApaJEALw_wcB&gclsrc=aw.ds">PBIS high school (international baccalaureate diploma courses) </a> 🎓<br>
+    🎓 Graduated from <a href="https://www.nordangliaeducation.com/pbis-prague/campaign-ppc-1?gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds3KEXJDhFztqpDTNvzMreu8IU8QjF73DgH6yojA4Ij8IJk6DJGCVhYaApaJEALw_wcB&gclsrc=aw.ds"> Prague British International School  </a> 🎓<br>
     <br>
 
 </h4>
