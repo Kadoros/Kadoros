@@ -13,7 +13,7 @@
     🎓 Graduated from <a href="https://www.nordangliaeducation.com/pbis-prague/campaign-ppc-1?gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds3KEXJDhFztqpDTNvzMreu8IU8QjF73DgH6yojA4Ij8IJk6DJGCVhYaApaJEALw_wcB&gclsrc=aw.ds"> Prague British International School  </a> 🎓<br>
     <br>
  <br>
-    🎓 Currently studying School of Computer Science and Engineering at Chung-Ang University 🎓<br>
+    🎓 College of Computer Science and Engineering at Chung-Ang University 🎓<br>
     <br>
     
 
@@ -30,7 +30,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,java,html,css,js,react,atom,mysql,vscode,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,java,html,css,js,ts,react,atom,mysql,vscode,discord" /><br>
   </a>
 </p><br>
 <hr>
