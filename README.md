@@ -6,7 +6,7 @@
 
 
 
-## 🌟 Junior Developer | 🌐 Web Enthusiast | 🚀 Learning React
+## 🌟 Junior Developer
 
 <h4 align="center">
     <br>
@@ -30,7 +30,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,java,html,css,js,ts,react,atom,mysql,vscode,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,c,java,html,css,js,ts,react,atom,mysql,vscode,discord" /><br>
   </a>
 </p><br>
 <hr>
