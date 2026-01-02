@@ -6,7 +6,7 @@
 
 
 
-## 🌟 Junior Developer
+
 
 <h4 align="center">
     <br>
