@@ -10,12 +10,14 @@
 
 <h4 align="center">
     <br>
-    🎓 Graduated from <a href="https://www.nordangliaeducation.com/pbis-prague/campaign-ppc-1?gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds3KEXJDhFztqpDTNvzMreu8IU8QjF73DgH6yojA4Ij8IJk6DJGCVhYaApaJEALw_wcB&gclsrc=aw.ds"> Prague British International School  </a> 🎓<br>
+    Graduated from <a href="https://www.nordangliaeducation.com/pbis-prague/campaign-ppc-1?gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds3KEXJDhFztqpDTNvzMreu8IU8QjF73DgH6yojA4Ij8IJk6DJGCVhYaApaJEALw_wcB&gclsrc=aw.ds"> Prague British International School  </a> <br>
     <br>
  <br>
-    🎓 College of Computer Science and Engineering at Chung-Ang University 🎓<br>
+    College of Computer Science and Engineering at Chung-Ang University <br>
     <br>
-    
+    <br>
+    Undergraduate Researcher @ CAU CVML Lab | Physics-Informed AI & 4DGS<br>
+    <br>
 
 </h4>
 
@@ -30,7 +32,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,c,java,html,css,js,ts,react,atom,mysql,vscode,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=pytorch,git,nodejs,github,python,c,java,html,css,js,ts,react,atom,mysql,nextjs" /><br>
   </a>
 </p><br>
 <hr>
